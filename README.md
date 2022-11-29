@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://ridzeal.com/wp-content/uploads/2021/11/How-Software-Development-Company-Works.jpg)
 <h1 align="center">Hi 👋, I'm Himanshu Gangwar</h1>
 <h3 align="center">An aspiring and passionate full stack web developer</h3>
 
