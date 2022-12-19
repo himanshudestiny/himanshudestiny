@@ -31,3 +31,6 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshudestiny&show_icons=true&locale=en" alt="himanshudestiny" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshudestiny&" alt="himanshudestiny" /></p>
+
+
+![snake gif](https://github.com/himanshudestiny/himanshudestiny/blob/output/github-contribution-grid-snake.gif)
